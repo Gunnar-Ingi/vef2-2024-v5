@@ -38,6 +38,7 @@
   "devDependencies": {
     "@next/env": "latest",
     "eslint": "^8.57.0",
-    "eslint-config-next": "latest"
+    "eslint-config-next": "latest",
+    "sass": "^1.74.1"
   }
 }
