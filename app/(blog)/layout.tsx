@@ -60,7 +60,7 @@ async function Footer() {
 
   return (
     <footer className="bg-accent-1 border-accent-2 border-t">
-      <div className="container mx-auto px-5">
+      <div className="container">
         {footer.length > 0 ? (
           <PortableText
             className="prose-sm text-pretty bottom-0 w-full max-w-none bg-white py-12 text-center md:py-20"
